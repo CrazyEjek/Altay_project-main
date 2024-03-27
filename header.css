@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.header__container {
+    display: flex;
+}
+.header__logo {
+}
+.header__tours {
+}
+.header__video {
+}
+.header__menu {
+}
+
+
