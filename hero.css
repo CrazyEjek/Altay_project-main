@@ -3,9 +3,12 @@
 }
 .hero__container {
     display: block;
+
 }
 .hero__title {
     color: #FFFFFF;
     font-size: 180px;
+    display: flex;
+    justify-content: center;
 
 }

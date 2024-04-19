@@ -13,7 +13,9 @@ html {
     position: relative;
     overflow-x: hidden;
     min-width: 320px;
+    max-width: 1240px;
     min-height: 100vh;
+    margin-left: 20px;
     font-family: Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;

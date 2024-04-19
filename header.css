@@ -1,19 +1,21 @@
 .header {
-    display: flex;
-    margin: 0;
-    padding: 0;
+    
 }
 
 .header__container {
+    min-width: 320px;
+    max-width: 1240px;
+    margin-top: 50px;
     display: flex;
+    justify-content: space-between;
 }
 .header__logo {
 }
 .header__tours {
+    margin-top: 15px;
 }
 .header__video {
+    margin-top: 15px;
 }
 .header__menu {
 }
-
-

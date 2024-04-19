@@ -1,0 +1,39 @@
+.footer {
+}
+.footer__container {
+    min-width: 320px;
+    max-width: 1240px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer__logo {
+}
+.footer__tours {
+}
+.footer__tours-ul {
+}
+.footer__tours-item {
+}
+.footer__contacts {
+}
+.footer__contacts-ul {
+}
+.footer__contacts-item {
+}
+.phone {
+}
+.footer__social {
+    /* подумоть */
+    display: inline;
+    justify-content: space-between;
+}
+.footer__social-item {
+
+}
+.social-button {
+    
+    
+}
+.visually-hidden {
+}
